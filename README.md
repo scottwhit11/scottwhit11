@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @scottwhit11
-- 👀 I’m interested in Python programming, computing, electronics, engineering, acupuncture, herbal medicine, etc.
-- 🌱 I’m currently learning about Sonic Pi, for fun. 
-- 💞️ I’m looking to collaborate on select writing projects.
-- 📫 How to reach me https://scottwhit.com/
+- 👋 Hi, I’m @cipher.36
+- 👀 I’m interested in worldbuilding, gaming, programming, computing, electronics, engineering, music, writing, and technomancy.
+- 🌱 I’m currently learning about Foundry VTT, Obsidian.md, and Patreon.
+- 💞️ I’m looking to host tabletop roleplaying games in-person and online.
+- 📫 How to reach me https://patreon.com/gaming_table?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 
-I bring a wealth of expertise and a deep understanding from my 20-year career as an acupuncture clinician. My services include creating compelling, informative content that resonates with readers and patients, enhancing their knowledge and engagement. Additionally, I provide consulting services to business partners, offering strategies that drive exceptional success.
+cipher.36 (he/him) is a 56-year-old cisgender white male from the San Francisco Bay Area, with a deep passion for roleplaying games. He finds particular enjoyment in the collaborative and emergent storytelling crafted by players and the Warden, fostering an immersive and engaging shared narrative. This co-creative experience is what makes gaming especially satisfying and enjoyable for him.
 
-A Californian, born and raised in the San Francisco Bay Area, I hold a Master’s of Traditional Chinese Medicine (MTCM) from Five Branches Institute of Santa Cruz, earned in 2003, and a Doctorate of Acupuncture and Oriental Medicine (DAOM) from Five Branches University of San Jose, obtained in 2011.
+cipher.36’s journey into roleplaying began in 1979 with the Dungeons & Dragons Basic Set. Though initially unsure of how to play, he was drawn to its potential and soon sought friends to teach him. Since those early days, cipher.36 has expanded his experience as a player with a variety of games, including Traveller, Tunnels & Trolls, Rolemaster, Middle Earth Roleplaying, D&D 3.5 and 4, Call of Cthulhu, Blood Sword, The One Ring, Microscope, Savage Worlds, Pathfinder, and Mörk Borg.
 
-Licensed to practice acupuncture and herbal medicine in California since 2004, my career has spanned diverse clinical environments, including private practice, employee roles, the California Workers' Compensation system, hospital settings, community acupuncture clinics, and home visits. This breadth of experience has given me a unique perspective on patient care and business operations within the field. I delivered nearly 30,000 acupuncture treatments during my nine years at Kaiser Permanente Redwood City Medical Center.
+As a Game Master, cipher.36 has facilitated games like Eclipse Phase (both editions), Traveller, Numenera, No Thank You, Evil!, Mouse Guard, Torchbearer, Call of Cthulhu, Tales from the Loop, and Dune: Adventures in the Imperium. He is especially excited to bring Mothership® First Edition to the table, having started with the Mothership 0E ruleset and assembled a substantial collection of Mothership resources over time.
+
+
+
 <!---
 scottwhit11/scottwhit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
