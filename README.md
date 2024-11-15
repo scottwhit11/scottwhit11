@@ -8,7 +8,7 @@ cipher.36 (he/him) is a 56-year-old cisgender white male from the San Francisco 
 
 cipher.36’s journey into roleplaying began in 1979 with the Dungeons & Dragons Basic Set. Though initially unsure of how to play, he was drawn to its potential and soon sought friends to teach him. Since those early days, cipher.36 has expanded his experience as a player with a variety of games, including Traveller, Tunnels & Trolls, Rolemaster, Middle Earth Roleplaying, D&D 3.5 and 4, Call of Cthulhu, Blood Sword, The One Ring, Microscope, Savage Worlds, Pathfinder, and Mörk Borg.
 
-As a Game Master, cipher.36 has facilitated games like Eclipse Phase (both editions), Traveller, Numenera, No Thank You, Evil!, Mouse Guard, Torchbearer, Call of Cthulhu, Tales from the Loop, and Dune: Adventures in the Imperium. He is especially excited to bring Mothership® First Edition to the table, having started with the Mothership 0E ruleset and assembled a substantial collection of Mothership resources over time.
+As a Game Master, cipher.36 has facilitated games like Eclipse Phase (both editions), Traveller, Numenera, No Thank You, Evil!, Mouse Guard, Torchbearer, Call of Cthulhu, Tales from the Loop, and Dune: Adventures in the Imperium. He is especially excited to bring Mothership® First Edition to the table, having started with the Mothership® 0E ruleset and assembled a substantial collection of Mothership® resources over time.
 
 
 
